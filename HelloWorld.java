@@ -4,5 +4,7 @@ public class HelloWorld {
         System.out.println("G");
         System.out.println("T");
         System.out.println("A");
+        System.out.println("V");
+        System.out.println("I");
     }
 }
